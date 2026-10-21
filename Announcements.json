@@ -7,7 +7,8 @@
       "active": true,
       "startsAt": "2026-10-21T00:00:00+03:00",
       "endsAt": null,
-      "priority": 100
+      "priority": 100,
+      "date": "2026-10-21T00:00:00+03:00"
     }
   ]
 }
