@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="398" viewBox="0 0 1672 398">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08131d"/>
+      <stop offset="45%" stop-color="#102a3a"/>
+      <stop offset="100%" stop-color="#071018"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="48%" r="55%">
+      <stop offset="0%" stop-color="#36d7ff" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#36d7ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dy="4"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".45"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1672" height="398" rx="28" fill="url(#bg)"/>
+  <rect width="1672" height="398" rx="28" fill="url(#glow)"/>
+  <path d="M0 315 C280 245 420 365 690 292 S1115 215 1672 305" fill="none" stroke="#38d8ff" stroke-opacity=".14" stroke-width="3"/>
+  <path d="M0 338 C340 280 520 392 825 310 S1320 250 1672 332" fill="none" stroke="#7ceaff" stroke-opacity=".08" stroke-width="2"/>
+  <g filter="url(#shadow)" text-anchor="middle">
+    <text x="836" y="171" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="800" fill="#ffffff">Aion2AR</text>
+    <text x="836" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="600" fill="#6fe5ff">تعريب AION 2 إلى العربية</text>
+  </g>
+  <text x="836" y="305" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#b9cbd5">Global NC Launcher • Steam • Taiwan NC Launcher</text>
+</svg>
