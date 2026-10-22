@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "active": false,
+  "localizationVersion": "1.1.18",
+  "minimumAppVersion": "0.9.73",
+  "compatibleGameVersions": {
+    "global": "2.0.8",
+    "taiwan": "1.0.54"
+  },
+  "package": {
+    "releaseTag": "",
+    "assetName": "",
+    "sha256": "",
+    "plainSha256": "",
+    "size": 0
+  },
+  "notes": [],
+  "publishedAt": "2026-10-23T00:00:00+03:00"
+}
