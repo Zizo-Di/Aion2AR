@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="assets/aion2ar-banner.webp" alt="Aion2AR Banner" width="100%">
+<img src="assets/aion2ar-banner.png" alt="Aion2AR Banner" width="100%">
 
 <br>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="assets/image.png" alt="واجهة برنامج Aion2AR" width="100%">
+<img src="assets/aion2ar-app.png" alt="واجهة برنامج Aion2AR" width="100%">
 
 </div>
 
