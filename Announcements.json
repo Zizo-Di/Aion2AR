@@ -1,15 +1,3 @@
 {
-  "announcements": [
-    {
-      "id": "private-test-announcement-2026-10-21-01",
-      "title": "اختبار نظام الإعلانات",
-      "message": "إذا ظهر لك هذا الإعلان داخل Aion2AR، فهذا يعني أن نظام الإعلانات المباشرة من GitHub يعمل بنجاح.",
-      "active": true,
-      "startsAt": "2026-10-21T00:00:00+03:00",
-      "endsAt": null,
-      "priority": 100,
-      "date": "2026-10-21T00:00:00+03:00",
-      "category": "general"
-    }
-  ]
+  "announcements": []
 }
