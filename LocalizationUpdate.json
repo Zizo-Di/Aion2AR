@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "active": false,
   "localizationVersion": "1.1.18",
-  "minimumAppVersion": "0.9.73",
+  "minimumAppVersion": "1.0.0",
   "compatibleGameVersions": {
     "global": "2.0.8",
     "taiwan": "1.0.54"
