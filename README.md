@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="assets/aion2ar-app.webp" alt="واجهة برنامج Aion2AR" width="100%">
+<img src="assets/image.png" alt="واجهة برنامج Aion2AR" width="100%">
 
 </div>
 
