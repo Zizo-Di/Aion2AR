@@ -2,5 +2,9 @@
   "installEnabled": true,
   "title": "حالة التعريب",
   "message": "التثبيت متاح حاليًا.",
-  "updatedAt": "2026-10-22T00:00:00+03:00"
+  "feedback": {
+    "enabled": false,
+    "endpoint": ""
+  },
+  "updatedAt": "2026-10-23T16:53:00+03:00"
 }
