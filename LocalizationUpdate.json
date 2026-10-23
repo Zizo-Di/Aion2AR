@@ -7,6 +7,10 @@
     "global": "2.0.8",
     "taiwan": "1.0.54"
   },
+  "translationProgress": {
+    "translated": 105090,
+    "total": 159938
+  },
   "package": {
     "releaseTag": "",
     "assetName": "",
