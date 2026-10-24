@@ -6,7 +6,6 @@
 
 [![تحميل](https://img.shields.io/badge/تحميل-Aion2AR--Setup.exe-25c7e8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Zizo-Di/Aion2AR/releases/latest)
 [![دعم](https://img.shields.io/badge/دعم_المشروع-Ko--fi-d7aa49?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/zizodi/goal?g=0)
-[![تصويتات التعريب](https://img.shields.io/badge/شارك_في_تصويتات_التعريب-Discussions-25c7e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zizo-Di/Aion2AR/discussions/categories/polls)
 
 <br>
 
