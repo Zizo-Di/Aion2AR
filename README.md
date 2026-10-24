@@ -37,9 +37,9 @@
 
 | الكلمة | التعريب المقترح | رابط التصويت |
 |--------|------------------|--------------|
-| Arcana | الأسرار / الآثار / أركانا | [التصويت](https://github.com/Zizo-Di/Aion2AR/discussions/categories/polls) |
-| Pantheon | الضريح / الصرح / بانثيون | [التصويت](https://github.com/Zizo-Di/Aion2AR/discussions/categories/polls) |
-| Daevanion | المسارات / التعاليم / ديفانيون | [التصويت](https://github.com/Zizo-Di/Aion2AR/discussions/categories/polls) |
+| Arcana | الأسرار / الآثار / أركانا | [التصويت](https://github.com/Zizo-Di/Aion2AR/discussions/6) |
+| Pantheon | الضريح / الصرح / بانثيون | [التصويت](https://github.com/Zizo-Di/Aion2AR/discussions/7) |
+| Daevanion | المسارات / التعاليم / ديفانيون | [التصويت](https://github.com/Zizo-Di/Aion2AR/discussions/8) |
 
 ## المميزات
 
