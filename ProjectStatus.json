@@ -3,8 +3,8 @@
   "title": "حالة التعريب",
   "message": "التثبيت متاح حاليًا.",
   "feedback": {
-    "enabled": false,
-    "endpoint": ""
+    "enabled": true,
+    "endpoint": "https://aion2ar-feedback.zizo-aion2ar.workers.dev"
   },
-  "updatedAt": "2026-10-23T16:53:00+03:00"
+  "updatedAt": "2026-10-24T04:54:00+03:00"
 }
