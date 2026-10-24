@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "active": true,
-  "localizationVersion": "1.1.19",
+  "active": false,
+  "localizationVersion": "1.1.18",
   "minimumAppVersion": "1.0.0",
   "compatibleGameVersions": {
     "global": "2.0.8",
@@ -12,14 +12,12 @@
     "total": 159938
   },
   "package": {
-    "releaseTag": "loc-v1.1.19",
-    "assetName": "Aion2AR-Localization-v1.1.19.a2p",
-    "sha256": "12cf15a33425b5a890f7a0eb204b8c7565ae9f47931a84ec5cf583bc81b2d120",
-    "plainSha256": "d0279f7a197b25cdf31290fcd92ace0c9c21f0d55108d1a9ac4a29a88eb17759",
-    "size": 7975332
+    "releaseTag": "",
+    "assetName": "",
+    "sha256": "",
+    "plainSha256": "",
+    "size": 0
   },
-  "notes": [
-    "\u0627\u062E\u062A\u0628\u0627\u0631 \u0646\u0638\u0627\u0645 \u062A\u062D\u062F\u064A\u062B \u0627\u0644\u062A\u0639\u0631\u064A\u0628"
-  ],
-  "publishedAt": "2026-10-24T04:03:23.2910360\u002B03:00"
+  "notes": [],
+  "publishedAt": "2026-10-23T00:00:00+03:00"
 }
