@@ -1,6 +1,17 @@
 {
   "announcements": [
     {
+      "id": "20261024-035559-072c52e9",
+      "category": "general",
+      "title": "\u0632\u064A\u0632\u0648",
+      "message": "\u0644\u0644\u0627\u062E\u062A\u0628\u0627\u0631",
+      "active": true,
+      "startsAt": "2026-10-24T03:55:59.5450991\u002B03:00",
+      "endsAt": null,
+      "priority": 10,
+      "date": "2026-10-24T03:55:59.5450991\u002B03:00"
+    },
+    {
       "id": "20261024-035151-ccc788b5",
       "category": "general",
       "title": "\u0627\u062E\u062A\u0628\u0627\u0631 \u0627\u0644\u0627\u062A\u0635\u0627\u0644",
