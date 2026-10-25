@@ -1,6 +1,17 @@
 {
   "announcements": [
     {
+      "id": "20261025-235703-a7d446ef",
+      "category": "localization",
+      "title": "\u062A\u062D\u062F\u064A\u062B \u0627\u0644\u062A\u0639\u0631\u064A\u0628 1.1.21",
+      "message": "\u062A\u0639\u0631\u064A\u0628 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u0623\u0631\u0643\u0627\u0646\u0627",
+      "active": true,
+      "startsAt": "2026-10-25T23:57:03.8113651\u002B03:00",
+      "endsAt": null,
+      "priority": 10,
+      "date": "2026-10-25T23:57:03.8113651\u002B03:00"
+    },
+    {
       "id": "20261025-001933-5cc1e18d",
       "category": "localization",
       "title": "\u062A\u062D\u062F\u064A\u062B \u0627\u0644\u062A\u0639\u0631\u064A\u0628 1.1.20",
