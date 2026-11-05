@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "active": true,
-  "localizationVersion": "1.1.21",
-  "minimumAppVersion": "1.0.0",
+  "localizationVersion": "1.1.23",
+  "minimumAppVersion": "1.0.2",
   "compatibleGameVersions": {
-    "global": "2.0.8",
-    "taiwan": "1.0.54"
+    "global": "2.0.10",
+    "taiwan": "1.0.56"
   },
   "translationProgress": {
-    "translated": 105842,
+    "translated": 128948,
     "total": 159938
   },
   "package": {
-    "releaseTag": "loc-v1.1.21",
-    "assetName": "Aion2AR-Localization-v1.1.21.a2p",
-    "sha256": "0bc66a4a6e2b0e3b8592f9e78f89d0e5b2c079980bf79ed7b1d1667deee01c17",
-    "plainSha256": "b917d331c5641163386c174b01f7f22337bfee94c80a1f163a2ed223535d2484",
-    "size": 7982948
+    "releaseTag": "loc-v1.1.23",
+    "assetName": "Aion2AR-Localization-v1.1.23.a2p",
+    "sha256": "71f5be3d3b491b23fd919c579351f164d1249f0c140db7c12a6ae6494102937f",
+    "plainSha256": "e107ffdab3cffc0335dd0364644ac6734028b381d2a878c97f797b943d61cd88",
+    "size": 8110420
   },
   "notes": [],
-  "publishedAt": "2026-10-25T23:56:29.5860787\u002B03:00"
+  "publishedAt": "2026-11-05T19:29:34.3641844\u002B03:00"
 }
